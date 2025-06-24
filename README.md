@@ -55,4 +55,6 @@ This project implements all requirements from:
 - Part 2: Dynamic responses, sentiment detection, and memory
 - Part 3: Task assistant, quiz game, and NLP simulation
 
-Created by [Your Name] for [Course Name] assignment.
+# File Structure
+
+Created by ST10447819 for Prog6221-POE-part-3 assignment.
